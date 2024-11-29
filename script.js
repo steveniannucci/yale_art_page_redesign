@@ -11,9 +11,9 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
 
   const events = [
   {
-    dateNumber: '15',
-    dateMonth: 'Oct',
-    eventName: 'Art Exhibition',
+    dateNumber: '13',
+    dateMonth: 'Nov',
+    eventName: '"Feedback Loop" ',
     eventDate: 'October 15, 2024',
     eventAddress: '123 Art St, New Haven, CT'
   },
