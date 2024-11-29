@@ -15,13 +15,13 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     dateMonth: 'Nov',
     eventName: '"Feedback Loop" — First-Year MFA Exhibition',
     eventDate: 'Fall 2024 1st-Year MFA Show November 13 - December 13 Public reception: Friday, November 13',
-    eventAddress: '123 Art St, New Haven, CT'
+    eventAddress: '1156 Chapel Street'
   },
   {
-    dateNumber: '20',
-    dateMonth: 'Nov',
-    eventName: 'Sculpture Workshop',
-    eventDate: 'November 20, 2024',
+    dateNumber: '02',
+    dateMonth: 'Dec',
+    eventName: 'Classes resume',
+    eventDate: 'Monday, December 2 Classes resume',
     eventAddress: '456 Sculpture Rd, New Haven, CT'
   },
   // Add more events here
