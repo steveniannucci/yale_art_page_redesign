@@ -55,7 +55,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
 ];
 
   function populateEvents() {
-  const container = document.querySelector('.happening-at-soa');
+  const container = document.querySelector('.happening-at-soa-calendar');
   
   events.forEach(event => {
     const eventDiv = document.createElement('div');
