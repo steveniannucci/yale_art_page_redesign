@@ -31,6 +31,13 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Meet YPEI staff to learn more about this teaching fellowship.',
     eventAddress: '5:00 PM - 6:00 PM EST'
   },
+  {
+    dateNumber: '02',
+    dateMonth: 'Dec',
+    eventName: 'Figure Drawing Workshop',
+    eventDate: 'Monday, December 26-8 PM 1156 Chapel Street, Room G01 Join the Painting/Printmaking department.',
+    eventAddress: '5:00 PM - 6:00 PM EST'
+  },
 ];
 
   function populateEvents() {
