@@ -10,3 +10,8 @@ header {
 a {
     color: white;
 }
+
+.intro {
+    background-color: #dddddd;
+    color: black;
+}
