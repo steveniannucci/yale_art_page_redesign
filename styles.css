@@ -11,6 +11,10 @@ a {
     color: white;
 }
 
+a:hover {
+    border: 1px solid blue;
+}
+
 .intro {
     background-color: #dddddd;
     color: black;
