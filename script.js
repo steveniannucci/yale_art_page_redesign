@@ -22,9 +22,15 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     dateMonth: 'Dec',
     eventName: 'Classes resume',
     eventDate: 'Monday, December 2 Classes resume',
-    eventAddress: '456 Sculpture Rd, New Haven, CT'
+    eventAddress: ''
   },
-  // Add more events here
+  {
+    dateNumber: '02',
+    dateMonth: 'Dec',
+    eventName: 'YPEI Info Session',
+    eventDate: 'Meet YPEI staff to learn more about this teaching fellowship.',
+    eventAddress: '5:00 PM - 6:00 PM EST'
+  },
 ];
 
   function populateEvents() {
