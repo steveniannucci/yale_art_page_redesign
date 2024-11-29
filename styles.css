@@ -21,6 +21,10 @@ a {
     color: black;
 }
 
+#quick-link {
+    color: black;
+}
+
 #quick-links-content {
     display: none;
 }
