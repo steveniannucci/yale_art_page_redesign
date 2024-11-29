@@ -38,6 +38,13 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Monday, December 26-8 PM 1156 Chapel Street, Room G01 Join the Painting/Printmaking department...',
     eventAddress: '5:00 PM - 6:00 PM EST'
   },
+  {
+    dateNumber: '03',
+    dateMonth: 'Dec',
+    eventName: 'MFA Crits in Sculpture',
+    eventDate: 'Sculpture critiques during the Fall 2024 semester are open to the School of Art community.',
+    eventAddress: '36 5:00 PM - 6:00 PM EST'
+  },
 ];
 
   function populateEvents() {
