@@ -54,7 +54,7 @@ footer {
 }
 
 .happening-at-soa-calendar {
-    background-color: #dddddd;
+    background-color: black;
 }
 
 .community-board-article {
@@ -81,7 +81,7 @@ footer {
     display: flex;
     align-items: center;
     margin-top: 20px;
-    background-color: #ffffff;
+    background-color: #dddddd;
     color: black;
 }
 
