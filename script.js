@@ -37,6 +37,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Meet YPEI staff to learn more about this teaching fellowship.',
     eventAddress: '5:00 PM - 6:00 PM EST',
     eventCategory: 'All School/Interdepartmental',
+    additionalEventInfo: '<b>Monday, December 2<br>5 PM<br><a>Join on Zoom</a></b>',
     color: '#DB8780'
   },
   {
