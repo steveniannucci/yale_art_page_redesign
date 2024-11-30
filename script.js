@@ -37,7 +37,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Meet YPEI staff to learn more about this teaching fellowship.',
     eventAddress: '5:00 PM - 6:00 PM EST',
     eventCategory: 'All School/Interdepartmental',
-    additionalEventInfo: '<b>Monday, December 2<br>5 PM<br><a>Join on Zoom</a></b>',
+    additionalEventInfo: '<b>Monday, December 2<br>5 PM<br><a>Join on Zoom</a></b><br><br>The Yale School of Art offers MFA graduates the opportunity to teach students incarcerated in Connecticut correctional institutions through the Yale Prison Education Initiative at Dwight Hall and its partnerships with Yale Summer Session and the University of New Haven. Meet YPEI staff to learn more about this teaching fellowship. Apps will be due in January.',
     color: '#DB8780'
   },
   {
