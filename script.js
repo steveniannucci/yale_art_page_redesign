@@ -16,6 +16,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: '"Feedback Loop" — First-Year MFA Exhibition',
     eventDate: 'Fall 2024 1st-Year MFA Show November 13 - December 13 Public reception: Friday, November 13',
     eventAddress: '1156 Chapel Street',
+    eventType: 'Incoming Students (1st Year MFAs)',
     color: '#008080'
   },
   {
@@ -77,6 +78,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
         <div class="event-name">${event.eventName}</div>
         <div class="event-date">${event.eventDate}</div>
         <div class="event-address">${event.eventAddress}</div>
+        <div class="event-type">${event.eventType}</div>
       </div>
     `;
 
