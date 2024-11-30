@@ -64,7 +64,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     
     eventDiv.innerHTML = `
       <div class="calendar-date">
-        <div class="date-bar"></div>
+        <div class="date-bar" style="background-color: ${event.color};"></div>
         <div class="date-text">
           <div class="date-number">${event.dateNumber}</div>
           <div class="date-month">${event.dateMonth}</div>
