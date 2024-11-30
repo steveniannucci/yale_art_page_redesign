@@ -33,6 +33,7 @@ li {
     background-color: #222222;
     color: white;
     padding: 5px 0;
+    margin-bottom: 10px;
 }
 
 #toggle-quick-links:hover {
@@ -55,6 +56,7 @@ li {
 .on-this-page {
     background-color: #222222;
     color: white;
+    padding: 5px;
 }
 
 footer {
