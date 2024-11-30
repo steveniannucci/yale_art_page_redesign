@@ -52,7 +52,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: 'MFA Crits in Sculpture',
     eventDate: 'Sculpture critiques during the Fall 2024 semester are open to the School of Art community.',
     eventAddress: '36 Edgewood Ave., New Haven 12:00-3:00 PM EST',
-    eventCategory: 'MFA Crits'
+    eventCategory: 'MFA Crits, Sculpture, Open to SoA Community',
   },
   {
     dateNumber: '03',
