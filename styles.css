@@ -139,7 +139,7 @@ footer {
 }
 
 .subscribe-button {
-    background-color: #F56B39;
+    background-color: #007bff;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -179,7 +179,7 @@ footer {
 
 .event-button:hover,
 .subscribe-button:hover {
-    background-color: #FEB06A;
+    background-color: #48BCD1
 }
 
 .previous-events-button:hover {
