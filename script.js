@@ -85,8 +85,8 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     button.textContent = 'Subscribe to this Calendar';
     button.classList.add('subscribe-button');
     
-    eventDiv.appendChild(button);
     container.appendChild(eventDiv);
+    container.appendChild(button);
   });
 }
 
