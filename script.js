@@ -80,7 +80,12 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
         <div class="event-address">${event.eventAddress}</div>
       </div>
     `;
+
+    const button = document.createElement('button');
+    button.textContent = 'Subscribe to this Calendar';
+    button.classList.add('subscribe-button');
     
+    eventDiv.appendChild(button);
     container.appendChild(eventDiv);
   });
 }
