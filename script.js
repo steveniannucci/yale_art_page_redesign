@@ -23,7 +23,8 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     dateMonth: 'Dec',
     eventName: 'Classes resume',
     eventDate: 'Monday, December 2 Classes resume',
-    eventAddress: ''
+    eventAddress: '',
+    color: '#000000'
   },
   {
     dateNumber: '02',
