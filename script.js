@@ -25,6 +25,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: 'Classes resume',
     eventDate: 'Monday, December 2 Classes resume',
     eventAddress: '',
+    eventCategory: 'Academic Calendar',
     color: '#000000'
   },
   {
