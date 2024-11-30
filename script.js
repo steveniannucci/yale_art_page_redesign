@@ -16,7 +16,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: '"Feedback Loop" — First-Year MFA Exhibition',
     eventDate: 'Fall 2024 1st-Year MFA Show November 13 - December 13 Public reception: Friday, November 13',
     eventAddress: '1156 Chapel Street',
-    color: '#28a745'
+    color: '#008080'
   },
   {
     dateNumber: '02',
