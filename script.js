@@ -83,7 +83,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
         <div class="event-name">${event.eventName}</div>
         <div class="event-date">${event.eventDate}</div>
         <div class="event-address">${event.eventAddress}</div>
-        <div class="event-category">Category: ${event.eventCategory}</div>
+        <div class="event-category">Categories: ${event.eventCategory}</div>
       </div>
     `;
 
