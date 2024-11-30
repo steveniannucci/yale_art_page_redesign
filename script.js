@@ -57,6 +57,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Sculpture critiques during the Fall 2024 semester are open to the School of Art community.',
     eventAddress: '36 Edgewood Ave., New Haven 12:00-3:00 PM EST',
     eventCategory: 'MFA Crits, Sculpture, Open to SoA Community',
+    additionalEventInfo: 'Sculpture critiques during the Fall 2024 semester are open to the School of Art community and will take place throughout 36 Edgewood Ave. Please find the exact location of each crit below or on the Sculpture Hub (accessible via the Student Hub).<br><br><b>Tuesday, December 3</b><br>12:00-1:30 PM<br><b>Cameron Patricia Downey</b><br>location TBD<br>2:00-3:30 PM<br><b>Shiellie Zhang</b><br>location TBD<br>',
   },
   {
     dateNumber: '03',
