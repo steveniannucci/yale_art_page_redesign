@@ -43,6 +43,10 @@ a:hover {
     border: 2px solid white;
 }
 
+.dark-anchor:hover {
+    border: 2px solid black;
+}
+
 li {
     margin-bottom: 10px;
 }
