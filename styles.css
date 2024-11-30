@@ -15,6 +15,10 @@ a:hover {
     border: 1px solid white;
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 .intro {
     background-color: #dddddd;
     color: black;
