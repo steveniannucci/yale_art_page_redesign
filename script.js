@@ -66,7 +66,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: '1-3 PM & 7-9 PM 353 Crown Street, the Pit Tuesday, December 3 Nadia Younes While...',
     eventAddress: '353 Crown Street, the Pit 1:00-9:00 PM EST',
     eventCategory: 'MFA Crits, Painting/Printmaking, Open to SoA Community',
-    additionalEventInfo: '<b></b>'
+    additionalEventInfo: '<b>1-3 PM & 7-9 PM<br>353 Crown Street, the Pit<br><br>Tuesday, December 3</b><br>Nadia Younes<br><br>While the formal crits themselves are open only to the Painting/Printmaking department, during the Fall 2024 semester, members of the School of Art community are invited to visit each crit installation in the hours before and after each crit.<br><br><strong>Please note: Only students and faculty in Painting/Printmaking are permitted in the Pit 3:30-6:30PM, during the formal crit.</strong>'
     color: '#2B6AD0'
   },
 ];
