@@ -60,7 +60,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: 'Presentation of MFA Crit Work in Painting/Printmaking',
     eventDate: '1-3 PM & 7-9 PM 353 Crown Street, the Pit Tuesday, December 3 Nadia Younes While...',
     eventAddress: '353 Crown Street, the Pit 1:00-9:00 PM EST',
-    eventCategory: 'MFA Crits',
+    eventCategory: 'MFA Crits, Painting/Printmaking, Open to SoA Community',
     color: '#2B6AD0'
   },
 ];
