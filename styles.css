@@ -25,6 +25,12 @@ h2 {
     font-family: Arial, sans-serif;
 }
 
+h3 {
+    letter-spacing: 0.15em;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+}
+
 a {
     color: white;
 }
