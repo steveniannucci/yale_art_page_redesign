@@ -180,8 +180,8 @@ footer {
     cursor: pointer;
     font-weight: bold;
     letter-spacing: 0.15em;
-        line-height: 1.5;
-        font-family: Arial, sans-serif;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
 }
 
 .right-buttons {
@@ -196,6 +196,9 @@ footer {
     padding: 10px 20px;
     cursor: pointer;
     margin-right: 10px;
+    letter-spacing: 0.15em;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
 }
 
 .upcoming-events-button {
@@ -204,6 +207,9 @@ footer {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    letter-spacing: 0.15em;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
 }
 
 .event-button {
