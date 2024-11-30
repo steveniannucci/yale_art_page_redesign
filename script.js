@@ -17,7 +17,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Fall 2024 1st-Year MFA Show November 13 - December 13 Public reception: Friday, November 13',
     eventAddress: '1156 Chapel Street',
     eventCategory: 'Incoming Students (1st Year MFAs), Open to Yale Community, Exhibitions',
-    additionalEventInfo: 'Fall 2024 1st-Year MFA Show\n\nNovember 13 - December 13',
+    additionalEventInfo: '',
     color: '#008080'
   },
   {
