@@ -86,7 +86,6 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     button.classList.add('subscribe-button');
     
     container.appendChild(eventDiv);
-    container.appendChild(button);
   });
 }
 
