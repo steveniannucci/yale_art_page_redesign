@@ -88,6 +88,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
       </div>
       <div class="additional-event-info" style="display: none;">
         <p>${event.additionalEventInfo}</p>
+        <hr>
       </div>
     `;
 
