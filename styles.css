@@ -19,6 +19,7 @@ a:hover {
 .intro {
     background-color: #dddddd;
     color: black;
+    padding: 5px;
 }
 
 .quick-links {
