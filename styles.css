@@ -154,6 +154,7 @@ footer {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    margin-right: 10px;
 }
 
 .upcoming-events-button {
