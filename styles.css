@@ -145,7 +145,7 @@ footer {
 
 .right-buttons {
     display: flex;
-    margin-left: 50px;
+    margin-left: auto;
 }
 
 .event-button {
