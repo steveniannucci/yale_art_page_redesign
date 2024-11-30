@@ -47,6 +47,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventDate: 'Monday, December 26-8 PM 1156 Chapel Street, Room G01 Join the Painting/Printmaking department...',
     eventAddress: '5:00 PM - 6:00 PM EST',
     eventCategory: 'Open to SoA Community, Painting/Printmaking',
+    additionalEventInfo: "<b>Monday, December 2<br>6-8 PM<br>1156 Chapel Street, Room G01</b><br><br>Join the Painting/Printmaking department for their series of Figure Drawing Workshops, hosted by Amy Chasse, Painting/Printmaking MFA '26.<br><br><b>Figure Drawing Workshop dates for Fall 2024:</b><br>Monday, October 28th<br>Monday, November 4th<br>Monday, November 11th<br>Monday, December 2nd<br>",
     color: '#1F4591'
   },
   {
