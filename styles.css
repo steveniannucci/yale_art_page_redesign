@@ -79,6 +79,8 @@ footer {
 .community-board-article {
     background-color: #dddddd;
     color: black;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .community-board-article-links {
