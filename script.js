@@ -14,7 +14,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     dateNumber: '13',
     dateMonth: 'Nov',
     eventName: '"Feedback Loop" — First-Year MFA Exhibition',
-    eventDate: 'Fall 2024 1st-Year MFA Show November 13 - December 13 Public reception: Friday, November 13',
+    eventDate: 'Fall 2024 1st-Year MFA Show November 13 - December 13 Public reception: Friday, November 15...',
     eventAddress: '1156 Chapel Street',
     eventCategory: 'Incoming Students (1st Year MFAs), Open to Yale Community, Exhibitions',
     additionalEventInfo: "Fall 2024 1st-Year MFA Show<br>November 13 - December 13<br><br><b>Public reception: Friday, November 15, 6-8PM</b><br><br>Open to the Yale community and invited, accompanied guests.<br><br>Featuring work by Alixe Turner, Amanda Atria, Ambrose Murray, Amy Chasse, Amy Fang, Amy Wang, Andrew Warner, Aru Apaza, Bendy Sohn, Cameron Patricia Downey, Camille Gwise, Chen Xiangyun, Chris Cole, Christian Badach, Christopher Postlewaite, Cierra Peters, David Jung, Denzel Boyd, Ellen Fabini, Em Wall, Faith Couch, Faye Wei Wei, Gabriella N. Báez, Hana Jelovšek & Gal Šnajder, Hasti Kasraei, Hazal Ozgur, Heejae Kim, Hongting Zhu, Ian Faden, Inkpa Mani, Izza Alyssa, Jasmine Clarke, John Shen, Josh Rabineau, Josh Vasquez, Kiki Serna, Kimberly Heard, Leyla Tonak, Mar Figueroa, Michael Stevens, Nabla Mohammad Yahya, Olivia Reavey, Priscilla Young, Rebecca Cheng, Sok Song, Taisha Carrington, Vernando Reuben, Wenqing Zhai, Xiwen Zhang, Yuna Cho, and Yuwei Tu.<br><br>Exhibition identity by Amy Fang and Camille Jen-Mei Gwise, Graphic Design MFAs '26.",
