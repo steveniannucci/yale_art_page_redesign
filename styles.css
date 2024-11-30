@@ -148,6 +148,22 @@ footer {
     margin-left: auto;
 }
 
+.previous-events-button {
+    background-color: #dddddd;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.upcoming-events-button {
+    background-color: #dddddd;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
 .event-button {
     background-color: #007bff;
     color: white;
