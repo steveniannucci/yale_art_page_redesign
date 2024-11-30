@@ -138,6 +138,14 @@ footer {
     color: black;
     padding: 10px;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+.additional-info {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ccc;
 }
 
 .calendar-date {

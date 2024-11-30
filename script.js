@@ -85,10 +85,19 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
         <div class="event-address">${event.eventAddress}</div>
         <div class="event-category">Categories: ${event.eventCategory}</div>
       </div>
-      <div class="additional-info" style="display: none;">
+      <div class="additional-event-info" style="display: none;">
         <p>Additional information about the event...</p>
       </div>
     `;
+
+    eventDiv.addEventListener('click', function() {
+      const additionalEventInfo = this.querySelector('.additional-event-info');
+      if (additionalEventInfo.style.display === 'none') {
+        additionalEventInfo.style.display = 'block';
+      } else {
+        additionalEventInfo.style.display = 'none';
+      }
+    });
 
     const button = document.createElement('button');
     button.textContent = 'Subscribe to this Calendar';
