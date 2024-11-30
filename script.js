@@ -43,6 +43,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: 'Figure Drawing Workshop',
     eventDate: 'Monday, December 26-8 PM 1156 Chapel Street, Room G01 Join the Painting/Printmaking department...',
     eventAddress: '5:00 PM - 6:00 PM EST',
+    eventCategory: 'Open to SoA Community',
     color: '#1F4591'
   },
   {
