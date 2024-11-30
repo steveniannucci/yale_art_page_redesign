@@ -152,8 +152,9 @@ footer {
 }
 
 .event-date,
-.event-address {
-    font-size: 14px;
+.event-address,
+.event-category {
+    font-size: 16px;
     margin-bottom: 5px;
 }
 
