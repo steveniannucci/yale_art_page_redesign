@@ -25,6 +25,10 @@ a:hover {
     color: white;
 }
 
+#quick-links-button:hover {
+    
+}
+
 #quick-links-content {
     display: none;
 }
