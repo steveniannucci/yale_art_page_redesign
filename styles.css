@@ -86,6 +86,8 @@ footer {
 .community-board-article-links {
     background-color: #222222;
     color: white;
+    padding: 5px;
+    margin-bottom: 10px;
 }
 
 .calendars-newsletters-links {
