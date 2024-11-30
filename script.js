@@ -34,6 +34,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
     eventName: 'YPEI Info Session',
     eventDate: 'Meet YPEI staff to learn more about this teaching fellowship.',
     eventAddress: '5:00 PM - 6:00 PM EST',
+    eventCategory: 'All School/Interdepartmental',
     color: '#DB8780'
   },
   {
