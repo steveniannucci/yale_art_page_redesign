@@ -31,7 +31,7 @@ li {
 .quick-links {
     background-color: #222222;
     color: white;
-    padding: 0xp; 5px;
+    padding: 5px 0;
 }
 
 #toggle-quick-links:hover {
