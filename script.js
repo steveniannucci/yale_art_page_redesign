@@ -92,6 +92,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
         <div class="event-address">${event.eventAddress}</div>
         <div class="event-category">Categories: ${event.eventCategory}</div>
       </div>
+      <button class="toggle-event-info-button">Show More Info</button>
       <div class="additional-event-info" style="display: none;">
         <p>${event.additionalEventInfo}</p>
         <hr>
