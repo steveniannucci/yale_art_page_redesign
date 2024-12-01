@@ -249,7 +249,15 @@ footer {
     font-family: Arial, sans-serif;
 }
 
-.filter-events-button,
+.filter-events-button {
+    background-color: #0054AD;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
 .search-events-button {
     background-color: #0054AD;
     color: white;
@@ -258,7 +266,7 @@ footer {
     cursor: pointer;
 }
 
-.filter-button:hover,
+.filter-events-button:hover,
 .search-button:hover {
     background-color: #007bff;
 }
