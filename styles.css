@@ -315,3 +315,13 @@ footer {
 .upcoming-events-button:hover {
     background-color: rgba(211, 211, 211, 0.897);
 }
+
+.previous-events-button:focus {
+    outline: none;
+    background-color: rgba(211, 211, 211, 0.897);
+}
+
+.upcoming-events-button:focus {
+    outline: none;
+    background-color: rgba(211, 211, 211, 0.897);
+}
