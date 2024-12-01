@@ -249,6 +249,15 @@ footer {
     font-family: Arial, sans-serif;
 }
 
+.filter-button,
+.search-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
 .event-button {
     background-color: #007bff;
     color: white;
