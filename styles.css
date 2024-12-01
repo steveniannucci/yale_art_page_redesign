@@ -1,4 +1,5 @@
 *:focus {
+    outline: none;  
     border: 4px solid;  
 }
 
