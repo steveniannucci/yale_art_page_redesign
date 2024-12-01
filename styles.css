@@ -278,6 +278,10 @@ footer {
     background-color: #007bff;
 }
 
+.filter-events-button:focus, .search-events-button:focus {
+    background-color: #007bff;
+}
+
 .event-button {
     background-color: #007bff;
     color: white;
