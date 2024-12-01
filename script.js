@@ -100,15 +100,12 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
       </div>
     `;
 
-    const toggleButton = eventDiv.querySelector('.toggle-info-button');
-    toggleButton.addEventListener('click', function() {
-      const additionalInfo = eventDiv.querySelector('.additional-info');
-      if (additionalInfo.style.display === 'none') {
-        additionalInfo.style.display = 'block';
-        toggleButton.textContent = 'Less Info';
+    eventDiv.addEventListener('click', function() {
+      const additionalEventInfo = this.querySelector('.additional-event-info');
+      if (additionalEventInfo.style.display === 'none') {
+        additionalEventInfo.style.display = 'block';
       } else {
-        additionalInfo.style.display = 'none';
-        toggleButton.textContent = 'More Info';
+        additionalEventInfo.style.display = 'none';
       }
     });
 
