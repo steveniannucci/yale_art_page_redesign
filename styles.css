@@ -278,7 +278,9 @@ footer {
     background-color: #007bff;
 }
 
-.filter-events-button:focus, .search-events-button:focus {
+.filter-events-button:focus, 
+.search-events-button:focus {
+    outline: none;
     background-color: #007bff;
 }
 
