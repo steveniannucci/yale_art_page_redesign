@@ -249,8 +249,8 @@ footer {
     font-family: Arial, sans-serif;
 }
 
-.filter-button,
-.search-button {
+.filter-events-button,
+.search-events-button {
     background-color: #0054AD;
     color: white;
     border: none;
