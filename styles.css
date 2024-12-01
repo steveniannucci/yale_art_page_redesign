@@ -302,6 +302,12 @@ footer {
     background-color: #007bff
 }
 
+.event-button:focus,
+.subscribe-button:focus {
+    outline: none;
+    background-color: #007bff;
+}
+
 .previous-events-button:hover {
     background-color: rgba(211, 211, 211, 0.897);
 }
