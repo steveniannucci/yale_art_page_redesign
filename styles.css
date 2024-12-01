@@ -226,7 +226,7 @@ footer {
     margin-left: auto;
 }
 
-.previous-events-button {
+.left-button {
     background-color: #dddddd;
     color: black;
     border: none;
@@ -238,7 +238,7 @@ footer {
     font-family: Arial, sans-serif;
 }
 
-.upcoming-events-button {
+.right-button {
     background-color: #dddddd;
     color: black;
     border: none;
