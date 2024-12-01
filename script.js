@@ -77,6 +77,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
   events.forEach(event => {
     const eventDiv = document.createElement('div');
     eventDiv.classList.add('calendar-event');
+    eventDiv.setAttribute('tabindex', '0'); // Makes the event divs focusable
     
     eventDiv.innerHTML = `
       <div class="calendar-date">
