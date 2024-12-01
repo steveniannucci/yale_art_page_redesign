@@ -69,6 +69,11 @@ li {
     background-color: #007bff;
 }
 
+#toggle-quick-links:focus {
+    outline: none;
+    background-color: #007bff;
+}
+
 #quick-links-content {
     display: none;
 }
