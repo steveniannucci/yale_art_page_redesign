@@ -342,3 +342,12 @@ footer {
     font-family: Arial, sans-serif;
     padding: 10px 20px;
 }
+
+.toggle-event-info-button:hover {
+    background-color: #007bff;
+}
+
+.toggle-event-info-button:focus {
+    outline: none;
+    background-color: #007bff;
+}
