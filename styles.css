@@ -1,3 +1,7 @@
+*:focus {
+    outline: 3px solid #007bff;
+}
+
 body {
     background-color: #00356b;
     color: #ffffff;
