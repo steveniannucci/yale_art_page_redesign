@@ -108,6 +108,13 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
       }
     });
 
+    eventDiv.addEventListener('keydown', function(event) {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        this.click();
+      }
+    });
+
     const button = document.createElement('button');
     button.textContent = 'Subscribe to this Calendar';
     button.classList.add('subscribe-button');
