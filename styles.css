@@ -251,11 +251,16 @@ footer {
 
 .filter-button,
 .search-button {
-    background-color: #007bff;
+    background-color: #0054AD;
     color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+}
+
+.filter-button:hover,
+.search-button:hover {
+    background-color: #007bff;
 }
 
 .event-button {
