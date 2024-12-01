@@ -256,6 +256,9 @@ footer {
     padding: 10px 20px;
     margin-right: 10px;
     cursor: pointer;
+    letter-spacing: 0.15em;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
 }
 
 .search-events-button {
@@ -264,6 +267,9 @@ footer {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    letter-spacing: 0.15em;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
 }
 
 .filter-events-button:hover,
