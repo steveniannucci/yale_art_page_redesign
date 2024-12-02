@@ -372,11 +372,15 @@ footer {
 }
 
 @media (max-width: 610px) {
+    * {
+        font-size: 14px;
+    }
+
     .subscribe-button {
         margin-right: 10px;
     }
 }
 
 @media (max-width: 375px) {
-    
+
 }
