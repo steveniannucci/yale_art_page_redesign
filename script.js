@@ -100,7 +100,7 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
       </div>
     `;
 
-    eventDivBottom
+    eventDivBottomButtons.innerHTML = 
 
     const toggleButton = eventDiv.querySelector('.toggle-event-info-button');
     toggleButton.addEventListener('click', function(event) {
