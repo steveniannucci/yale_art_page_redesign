@@ -100,6 +100,8 @@ document.getElementById('toggle-quick-links').addEventListener('click', function
       </div>
     `;
 
+    eventDivBottom
+
     const toggleButton = eventDiv.querySelector('.toggle-event-info-button');
     toggleButton.addEventListener('click', function(event) {
       event.stopPropagation(); // Prevent the event from bubbling up to the parent
