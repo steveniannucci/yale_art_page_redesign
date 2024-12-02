@@ -360,6 +360,7 @@ footer {
     .subscribe-button,
     .filter-events-button,
     .search-events-button,
+    .additional-event-info,
     .previous-events-button,
     .upcoming-events-button {
         padding: 5px 10px;
