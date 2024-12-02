@@ -356,7 +356,6 @@ footer {
 }
 
 @media (max-width: 775px) {
-
     body {
         width: 95%;
     }
@@ -373,5 +372,7 @@ footer {
 }
 
 @media (max-width: 610px) {
-    
+    .subscribe-button {
+        margin-right: 10px;
+    }
 }
