@@ -370,20 +370,11 @@ footer {
 
 @media (max-width: 705px) {
 
+    body {
+        width: 95%;
+    }
+
     .subscribe-button {
         margin-right: 10px;
     }
-}
-
-@media (max-width: 420px) {
-    
-        .subscribe-button,
-        .filter-events-button,
-        .search-events-button,
-        .toggle-event-info-button,
-        .previous-events-button,
-        .upcoming-events-button {
-            padding: 3px 5px;
-            font-size: 14px;
-        }
 }
