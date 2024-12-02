@@ -358,8 +358,8 @@ footer {
 @media (max-width: 775px) {
 
     .subscribe-button,
-    .filter-button,
-    .search-button,
+    .filter-events-button,
+    .search-events-button,
     .previous-events-button,
     .upcoming-events-button {
         padding: 5px 10px;
