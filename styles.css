@@ -364,5 +364,6 @@ footer {
     .previous-events-button,
     .upcoming-events-button {
         padding: 5px 10px;
+        font-size: 14px;
     }
 }
