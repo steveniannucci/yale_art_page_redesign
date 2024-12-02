@@ -354,3 +354,14 @@ footer {
     outline: none;
     background-color: #007bff;
 }
+
+@media (max-width: 775px) {
+
+    .subscribe-button,
+    .filter-button,
+    .search-button,
+    .previous-events-button,
+    .upcoming-events-button {
+        padding: 5px 10px;
+    }
+}
