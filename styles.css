@@ -378,6 +378,10 @@ footer {
 }
 
 @media (max-width: 375px) {
+    body {
+        width: 100%;
+    }
+
     .subscribe-button,
     .filter-events-button,
     .search-events-button,
