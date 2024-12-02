@@ -378,5 +378,13 @@ footer {
 }
 
 @media (max-width: 375px) {
-    
+    .subscribe-button,
+    .filter-events-button,
+    .search-events-button,
+    .toggle-event-info-button,
+    .previous-events-button,
+    .upcoming-events-button {
+        padding: 3px 8px;
+        font-size: 14px;
+    }
 }
