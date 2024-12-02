@@ -376,3 +376,7 @@ footer {
         margin-right: 10px;
     }
 }
+
+@media (max-width: 375px) {
+    
+}
