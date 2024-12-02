@@ -357,6 +357,10 @@ footer {
 
 @media (max-width: 775px) {
 
+    body {
+        width: 95%;
+    }
+
     .subscribe-button,
     .filter-events-button,
     .search-events-button,
@@ -365,16 +369,5 @@ footer {
     .upcoming-events-button {
         padding: 5px 10px;
         font-size: 14px;
-    }
-}
-
-@media (max-width: 705px) {
-
-    body {
-        width: 95%;
-    }
-
-    .subscribe-button {
-        margin-right: 10px;
     }
 }
