@@ -240,8 +240,8 @@ footer {
 }
 
 .previous-events-button {
-    background-color: #dddddd;
-    color: black;
+    background-color: #0054AD;
+    color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -252,8 +252,8 @@ footer {
 }
 
 .upcoming-events-button {
-    background-color: #dddddd;
-    color: black;
+    background-color: #0054AD;
+    color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
